@@ -1,0 +1,133 @@
+[
+  {
+    "ContainingType": "APICitasMedicas.Controllers.CitasController",
+    "Method": "BuscarCita",
+    "RelativePath": "Citas/BuscarCita",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idCita",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APICitasMedicas.Controllers.CitasController",
+    "Method": "AgregarCita",
+    "RelativePath": "Citas/CrearCita",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pCita",
+        "Type": "APICitasMedicas.Model.Citas",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APICitasMedicas.Controllers.CitasController",
+    "Method": "ModificarCita",
+    "RelativePath": "Citas/EditarCita",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pCita",
+        "Type": "APICitasMedicas.Model.Citas",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APICitasMedicas.Controllers.CitasController",
+    "Method": "EliminarCita",
+    "RelativePath": "Citas/EliminarCita",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idCita",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APICitasMedicas.Controllers.CitasController",
+    "Method": "ListaCitas",
+    "RelativePath": "Citas/ListaCitas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APICitasMedicas.Controllers.UsuariosController",
+    "Method": "AutenticarPW",
+    "RelativePath": "Usuarios/AutenticarPW",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APICitasMedicas.Controllers.UsuariosController",
+    "Method": "Agregar",
+    "RelativePath": "Usuarios/Registrarse",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nuevoUsuario",
+        "Type": "APICitasMedicas.Model.Usuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

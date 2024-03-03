@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\APICitasMedicas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28442884-4851-47C6-90B9-80D08D3F7757}|APICitasMedicas\\APICitasMedicas.csproj|e:\\apicitasmedicas\\apicitasmedicas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{28442884-4851-47C6-90B9-80D08D3F7757}|APICitasMedicas\\APICitasMedicas.csproj|solutionrelative:apicitasmedicas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28442884-4851-47C6-90B9-80D08D3F7757}|APICitasMedicas\\APICitasMedicas.csproj|e:\\apicitasmedicas\\apicitasmedicas\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28442884-4851-47C6-90B9-80D08D3F7757}|APICitasMedicas\\APICitasMedicas.csproj|solutionrelative:apicitasmedicas\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28442884-4851-47C6-90B9-80D08D3F7757}|APICitasMedicas\\APICitasMedicas.csproj|e:\\apicitasmedicas\\apicitasmedicas\\services\\iautorizacionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28442884-4851-47C6-90B9-80D08D3F7757}|APICitasMedicas\\APICitasMedicas.csproj|solutionrelative:apicitasmedicas\\services\\iautorizacionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28442884-4851-47C6-90B9-80D08D3F7757}|APICitasMedicas\\APICitasMedicas.csproj|e:\\apicitasmedicas\\apicitasmedicas\\apicitasmedicas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{28442884-4851-47C6-90B9-80D08D3F7757}|APICitasMedicas\\APICitasMedicas.csproj|solutionrelative:apicitasmedicas\\apicitasmedicas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28442884-4851-47C6-90B9-80D08D3F7757}|APICitasMedicas\\APICitasMedicas.csproj|e:\\apicitasmedicas\\apicitasmedicas\\model\\tipocambioapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28442884-4851-47C6-90B9-80D08D3F7757}|APICitasMedicas\\APICitasMedicas.csproj|solutionrelative:apicitasmedicas\\model\\tipocambioapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28442884-4851-47C6-90B9-80D08D3F7757}|APICitasMedicas\\APICitasMedicas.csproj|e:\\apicitasmedicas\\apicitasmedicas\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28442884-4851-47C6-90B9-80D08D3F7757}|APICitasMedicas\\APICitasMedicas.csproj|solutionrelative:apicitasmedicas\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28442884-4851-47C6-90B9-80D08D3F7757}|APICitasMedicas\\APICitasMedicas.csproj|e:\\apicitasmedicas\\apicitasmedicas\\services\\autorizacionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28442884-4851-47C6-90B9-80D08D3F7757}|APICitasMedicas\\APICitasMedicas.csproj|solutionrelative:apicitasmedicas\\services\\autorizacionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28442884-4851-47C6-90B9-80D08D3F7757}|APICitasMedicas\\APICitasMedicas.csproj|e:\\apicitasmedicas\\apicitasmedicas\\context\\dbcontextcitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28442884-4851-47C6-90B9-80D08D3F7757}|APICitasMedicas\\APICitasMedicas.csproj|solutionrelative:apicitasmedicas\\context\\dbcontextcitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28442884-4851-47C6-90B9-80D08D3F7757}|APICitasMedicas\\APICitasMedicas.csproj|e:\\apicitasmedicas\\apicitasmedicas\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28442884-4851-47C6-90B9-80D08D3F7757}|APICitasMedicas\\APICitasMedicas.csproj|solutionrelative:apicitasmedicas\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28442884-4851-47C6-90B9-80D08D3F7757}|APICitasMedicas\\APICitasMedicas.csproj|e:\\apicitasmedicas\\apicitasmedicas\\model\\custom\\autorizacionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28442884-4851-47C6-90B9-80D08D3F7757}|APICitasMedicas\\APICitasMedicas.csproj|solutionrelative:apicitasmedicas\\model\\custom\\autorizacionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28442884-4851-47C6-90B9-80D08D3F7757}|APICitasMedicas\\APICitasMedicas.csproj|e:\\apicitasmedicas\\apicitasmedicas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28442884-4851-47C6-90B9-80D08D3F7757}|APICitasMedicas\\APICitasMedicas.csproj|solutionrelative:apicitasmedicas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28442884-4851-47C6-90B9-80D08D3F7757}|APICitasMedicas\\APICitasMedicas.csproj|e:\\apicitasmedicas\\apicitasmedicas\\model\\tipocambio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28442884-4851-47C6-90B9-80D08D3F7757}|APICitasMedicas\\APICitasMedicas.csproj|solutionrelative:apicitasmedicas\\model\\tipocambio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28442884-4851-47C6-90B9-80D08D3F7757}|APICitasMedicas\\APICitasMedicas.csproj|e:\\apicitasmedicas\\apicitasmedicas\\model\\procedimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28442884-4851-47C6-90B9-80D08D3F7757}|APICitasMedicas\\APICitasMedicas.csproj|solutionrelative:apicitasmedicas\\model\\procedimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28442884-4851-47C6-90B9-80D08D3F7757}|APICitasMedicas\\APICitasMedicas.csproj|e:\\apicitasmedicas\\apicitasmedicas\\model\\citas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28442884-4851-47C6-90B9-80D08D3F7757}|APICitasMedicas\\APICitasMedicas.csproj|solutionrelative:apicitasmedicas\\model\\citas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 325,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAutorizacionServices.cs",
+              "DocumentMoniker": "E:\\APICitasMedicas\\APICitasMedicas\\Services\\IAutorizacionServices.cs",
+              "RelativeDocumentMoniker": "APICitasMedicas\\Services\\IAutorizacionServices.cs",
+              "ToolTip": "E:\\APICitasMedicas\\APICitasMedicas\\Services\\IAutorizacionServices.cs",
+              "RelativeToolTip": "APICitasMedicas\\Services\\IAutorizacionServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T16:10:56.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutorizacionServices.cs",
+              "DocumentMoniker": "E:\\APICitasMedicas\\APICitasMedicas\\Services\\AutorizacionServices.cs",
+              "RelativeDocumentMoniker": "APICitasMedicas\\Services\\AutorizacionServices.cs",
+              "ToolTip": "E:\\APICitasMedicas\\APICitasMedicas\\Services\\AutorizacionServices.cs",
+              "RelativeToolTip": "APICitasMedicas\\Services\\AutorizacionServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T16:10:40.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "E:\\APICitasMedicas\\APICitasMedicas\\Model\\Usuario.cs",
+              "RelativeDocumentMoniker": "APICitasMedicas\\Model\\Usuario.cs",
+              "ToolTip": "E:\\APICitasMedicas\\APICitasMedicas\\Model\\Usuario.cs",
+              "RelativeToolTip": "APICitasMedicas\\Model\\Usuario.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T16:10:37.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TipoCambioAPI.cs",
+              "DocumentMoniker": "E:\\APICitasMedicas\\APICitasMedicas\\Model\\TipoCambioAPI.cs",
+              "RelativeDocumentMoniker": "APICitasMedicas\\Model\\TipoCambioAPI.cs",
+              "ToolTip": "E:\\APICitasMedicas\\APICitasMedicas\\Model\\TipoCambioAPI.cs",
+              "RelativeToolTip": "APICitasMedicas\\Model\\TipoCambioAPI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T05:43:26.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "APICitasMedicas.csproj",
+              "DocumentMoniker": "E:\\APICitasMedicas\\APICitasMedicas\\APICitasMedicas.csproj",
+              "RelativeDocumentMoniker": "APICitasMedicas\\APICitasMedicas.csproj",
+              "ToolTip": "E:\\APICitasMedicas\\APICitasMedicas\\APICitasMedicas.csproj",
+              "RelativeToolTip": "APICitasMedicas\\APICitasMedicas.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-27T17:13:25.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbContextCitas.cs",
+              "DocumentMoniker": "E:\\APICitasMedicas\\APICitasMedicas\\Context\\DbContextCitas.cs",
+              "RelativeDocumentMoniker": "APICitasMedicas\\Context\\DbContextCitas.cs",
+              "ToolTip": "E:\\APICitasMedicas\\APICitasMedicas\\Context\\DbContextCitas.cs",
+              "RelativeToolTip": "APICitasMedicas\\Context\\DbContextCitas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T05:46:45.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "E:\\APICitasMedicas\\APICitasMedicas\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "APICitasMedicas\\Controllers\\UsuariosController.cs",
+              "ToolTip": "E:\\APICitasMedicas\\APICitasMedicas\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "APICitasMedicas\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwFAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T05:47:13.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AutorizacionResponse.cs",
+              "DocumentMoniker": "E:\\APICitasMedicas\\APICitasMedicas\\Model\\Custom\\AutorizacionResponse.cs",
+              "RelativeDocumentMoniker": "APICitasMedicas\\Model\\Custom\\AutorizacionResponse.cs",
+              "ToolTip": "E:\\APICitasMedicas\\APICitasMedicas\\Model\\Custom\\AutorizacionResponse.cs",
+              "RelativeToolTip": "APICitasMedicas\\Model\\Custom\\AutorizacionResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T16:10:14.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\APICitasMedicas\\APICitasMedicas\\appsettings.json",
+              "RelativeDocumentMoniker": "APICitasMedicas\\appsettings.json",
+              "ToolTip": "E:\\APICitasMedicas\\APICitasMedicas\\appsettings.json",
+              "RelativeToolTip": "APICitasMedicas\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-27T16:11:00.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CitasController.cs",
+              "DocumentMoniker": "E:\\APICitasMedicas\\APICitasMedicas\\Controllers\\CitasController.cs",
+              "RelativeDocumentMoniker": "APICitasMedicas\\Controllers\\CitasController.cs",
+              "ToolTip": "E:\\APICitasMedicas\\APICitasMedicas\\Controllers\\CitasController.cs",
+              "RelativeToolTip": "APICitasMedicas\\Controllers\\CitasController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAIwEcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T05:50:56.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\APICitasMedicas\\APICitasMedicas\\Program.cs",
+              "RelativeDocumentMoniker": "APICitasMedicas\\Program.cs",
+              "ToolTip": "E:\\APICitasMedicas\\APICitasMedicas\\Program.cs",
+              "RelativeToolTip": "APICitasMedicas\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAA4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T14:36:31.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Citas.cs",
+              "DocumentMoniker": "E:\\APICitasMedicas\\APICitasMedicas\\Model\\Citas.cs",
+              "RelativeDocumentMoniker": "APICitasMedicas\\Model\\Citas.cs",
+              "ToolTip": "E:\\APICitasMedicas\\APICitasMedicas\\Model\\Citas.cs",
+              "RelativeToolTip": "APICitasMedicas\\Model\\Citas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T05:44:01.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Procedimientos.cs",
+              "DocumentMoniker": "E:\\APICitasMedicas\\APICitasMedicas\\Model\\Procedimientos.cs",
+              "RelativeDocumentMoniker": "APICitasMedicas\\Model\\Procedimientos.cs",
+              "ToolTip": "E:\\APICitasMedicas\\APICitasMedicas\\Model\\Procedimientos.cs",
+              "RelativeToolTip": "APICitasMedicas\\Model\\Procedimientos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T05:44:22.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TipoCambio.cs",
+              "DocumentMoniker": "E:\\APICitasMedicas\\APICitasMedicas\\Model\\TipoCambio.cs",
+              "RelativeDocumentMoniker": "APICitasMedicas\\Model\\TipoCambio.cs",
+              "ToolTip": "E:\\APICitasMedicas\\APICitasMedicas\\Model\\TipoCambio.cs",
+              "RelativeToolTip": "APICitasMedicas\\Model\\TipoCambio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T05:43:20.985Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

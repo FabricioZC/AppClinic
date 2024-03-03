@@ -1,0 +1,37 @@
+﻿@model AppCitasMedicas.Models.Usuario
+
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4">
+        </div>
+        <div class="col-sm-4">
+            <form asp-controller="Usuarios" class="auth-box" asp-action="Login">
+                <h1 class="mt-5">Iniciar sesión</h1>
+                <div class="user-box">
+                    <input asp-for="Email" class="input-field" />
+                    <label asp-for="Email" class="input-label">Email</label>
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+                <div class="user-box">
+                    <input asp-for="Password" type="password" class="input-field" />
+                    <label asp-for="Password" class="input-label">Password</label>
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                    <span class="additional-text">¿No tienes una cuenta?</span>
+                    <a asp-controller="Usuarios" asp-action="Register">Cree una.</a>
+                </div>
+                <div class="col-auto mt-5 mb-5">
+                    <input type="submit" value="Aceptar" class="auth-btn" />
+                </div>
+            </form>
+
+        </div>
+        <div class="col-sm-4">
+        </div>
+    </div>
+</div>
+

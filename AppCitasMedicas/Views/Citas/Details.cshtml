@@ -1,0 +1,63 @@
+﻿@model AppCitasMedicas.Models.Citas
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div>
+    <dl class="row mt-5">
+        <h2 class="text-white mb-4 mt-4">Detalles de la cita número @Model.ID</h2>
+        <dt class="text-white col-sm-2">
+            @Html.DisplayNameFor(model => model.ID)
+        </dt>
+        <dd class="text-white col-sm-10">
+            @Html.DisplayFor(model => model.ID)
+        </dd>
+        <dt class="text-white col-sm-2">
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd class="text-white col-sm-10">
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+        <dt class="text-white col-sm-2">
+            @Html.DisplayNameFor(model => model.FechaHora)
+        </dt>
+        <dd class="text-white col-sm-10">
+            @Html.DisplayFor(model => model.FechaHora)
+        </dd>
+        <dt class="text-white col-sm-2">
+            @Html.DisplayNameFor(model => model.IDProcedimiento)
+        </dt>
+        <dd class="text-white col-sm-10">
+            @Html.DisplayFor(model => model.IDProcedimiento)
+        </dd>
+        <dt class="text-white col-sm-2">
+            @Html.DisplayNameFor(model => model.FechaRegistro)
+        </dt>
+        <dd class="text-white col-sm-10">
+            @Html.DisplayFor(model => model.FechaRegistro)
+        </dd>
+        <dt class="text-white col-sm-2">
+            @Html.DisplayNameFor(model => model.MontoTotal)
+        </dt>
+        <dd class="text-white col-sm-10">
+            @Html.DisplayFor(model => model.MontoTotal)
+        </dd>
+        <dt class="text-white col-sm-2">
+            @Html.DisplayNameFor(model => model.Estado)
+        </dt>
+        <dd class="text-white col-sm-10">
+            @Html.DisplayFor(model => model.Estado)
+        </dd>
+    </dl>
+</div>
+<div>
+    <div class="form-group d-flex mt-4 justify-content-start">
+        @Html.ActionLink("Editar", "Edit", new { id = Model.ID }, new { @class = "btn btn-warning" }) |
+
+        <a style="margin-left: 1rem;" class="btn btn-secondary" asp-action="Index">Atrás</a>
+    </div>
+
+ 
+</div>

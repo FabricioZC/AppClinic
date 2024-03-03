@@ -1,0 +1,62 @@
+﻿@model AppCitasMedicas.Models.Usuario
+
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<hr />
+<div class="row">
+    <div class="col-sm-4">
+    </div>
+    <div class="col-md-4">
+        
+        <form asp-action="Register" class="auth-box">
+            <h1 class="mt-5">Registro</h1>
+            <div class="user-box">
+                <input asp-for="Email" class="input-field" />
+                <label asp-for="Email" class="input-label"></label>
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="user-box">
+                <input asp-for="NombreCompleto" class="input-field" />
+                <label asp-for="NombreCompleto" class="input-label"></label>
+                <span asp-validation-for="NombreCompleto" class="text-danger"></span>
+            </div>
+            <div class="user-box">
+                <input asp-for="Telefono" class="input-field" />
+                <label asp-for="Telefono" class="input-label"></label>
+                <span asp-validation-for="Telefono" class="text-danger"></span>
+            </div>
+            <div class="user-box">
+                <input asp-for="Password" class="input-field" />
+                <label asp-for="Password" class="input-label"></label>
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="user-box">
+                <input asp-for="FechaRegistro" class="input-field" hidden />
+                <label asp-for="FechaRegistro" class="input-label" hidden></label>
+                <span asp-validation-for="FechaRegistro" class="text-danger"></span>
+            </div>
+            <div class="user-box">
+                <input asp-for="Estado" class="input-field" hidden />
+                <label asp-for="Estado" class="input-label" hidden></label>
+                <span asp-validation-for="Estado" class="text-danger"></span>
+            </div>
+            <div class="col-auto mt-3 mb-5">
+                <input type="submit" value="Crear" class="auth-btn" />
+                <input type="button" onclick="location.href='@Url.Action("Login", "Usuarios")'" value="Atrás" class="auth-btn" />
+            </div>
+        </form>
+
+    </div>
+    
+    <div class="col-sm-4">
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

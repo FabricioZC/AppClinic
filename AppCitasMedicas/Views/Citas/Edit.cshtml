@@ -1,0 +1,60 @@
+﻿@model AppCitasMedicas.Models.Citas
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+ 
+<div class="row mt-5">
+    <div class="col-md-4">
+        <h2 class="mb-4 mt-4 text-white">Editar la cita número @Model.ID</h2>
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group mt-3">
+                <label asp-for="ID" class="control-label text-white"></label>
+                <input readonly asp-for="ID" class="form-control" />
+                <span asp-validation-for="ID" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-3">
+                <label asp-for="Email" class="control-label text-white"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-3">
+                <label asp-for="FechaHora" class="control-label text-white"></label>
+                <input asp-for="FechaHora" class="form-control" />
+                <span asp-validation-for="FechaHora" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-3">
+                <label asp-for="IDProcedimiento" class="control-label text-white"></label>
+                <input asp-for="IDProcedimiento" class="form-control" />
+                <span asp-validation-for="IDProcedimiento" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-3">
+                <label asp-for="FechaRegistro" class="control-label text-white"></label>
+                <input readonly asp-for="FechaRegistro" class="form-control" />
+                <span asp-validation-for="FechaRegistro" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-3">
+                <label asp-for="MontoTotal" class="control-label text-white"></label>
+                <input asp-for="MontoTotal" class="form-control" />
+                <span asp-validation-for="MontoTotal" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-3">
+                <label asp-for="Estado" class="control-label text-white"></label>
+                <input asp-for="Estado" class="form-control" />
+                <span asp-validation-for="Estado" class="text-danger"></span>
+            </div>
+            <div class="form-group d-flex mt-4 mb-5 justify-content-start">
+                <input type="submit" value="Guardar" class="btn btn-primary" />
+                <a class="btn btn-secondary text-white" style="margin-left: 1rem;" asp-action="Index">Atrás</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

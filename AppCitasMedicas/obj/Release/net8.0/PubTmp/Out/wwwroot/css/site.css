@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    background: #243b55;
+    font-family: 'Poppins', sans-serif;
+}
+
+nav {
+    background: rgba(0,0,0,.5);
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #fff !important;
+}
+
+.navbar-light .navbar-brand {
+    color: #fff !important;
+}
+
+.auth-box {
+    position: absolute;
+    top: 53%;
+    left: 50%;
+    width: 400px;
+    padding: 0 50px;
+    transform: translate(-50%,-50%);
+    background: rgba(0,0,0,.5);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(0,0,0,.5);
+    border-radius: 10px;
+}
+
+.auth-box h1 {
+        margin-bottom: 4rem;
+        padding: 0;
+        color: #fff;
+        text-align: center;
+    }
+
+.auth-box .user-box {
+        position: relative;
+}
+
+.auth-btn {
+    position: relative;
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    text-decoration: none;
+    text-transform: uppercase;
+    overflow: hidden;
+    transition: .5s;
+
+}
+
+.input-field {
+    width: 100%;
+    padding: 10px 0;
+    font-size: 16px;
+    color: #fff;
+    margin-bottom: 30px;
+    border: none;
+    border-bottom: 1px solid #fff;
+    outline: none;
+    background: transparent;
+}
+
+.input-label {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 1px 0 15px;  
+    font-size: 16px;
+    color: #fff;
+    pointer-events: none;
+    transition: .5s;
+}
+
+.input-field:focus ~ .input-label,
+.input-field:valid ~ .input-label,
+.input-field:not(:placeholder-shown) ~ .input-label {
+    top: -20px;
+    left: 0;
+    color: #03e9f4;
+    font-size: 14px;
+}
+
+.auth-box a {
+    color: #03e9f4;
+    text-decoration: none;
+}
+
+
+.additional-text {
+    color: #fff; 
+    font-size: 16px; 
+}

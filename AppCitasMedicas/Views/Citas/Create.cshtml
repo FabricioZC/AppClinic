@@ -1,0 +1,52 @@
+﻿@model AppCitasMedicas.Models.Citas
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+ 
+<div class="row mt-5">
+    <div class="col-md-4">
+        <h2 class="text-white mb-4 mt-4">Crear Cita</h2>
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group mt-3">
+                <label asp-for="Email" class="control-label text-white"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mt-3">
+                <label asp-for="FechaHora" class="control-label text-white"></label>
+                <input asp-for="FechaHora" class="form-control" />
+                <span asp-validation-for="FechaHora" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mt-3">
+                <label asp-for="IDProcedimiento" class="control-label text-white"></label>
+                <select asp-for="IDProcedimiento" class="form-control">
+                    <option value="">---Selecciona un procedimiento dental---</option>
+                    <option value="44">Blanqueamiento</option>
+                    <option value="48">Calsas</option>
+                    <option value="53">Extracción</option>
+                    <option value="71">Tratamiento nervios</option>
+                </select>
+                <span asp-validation-for="IDProcedimiento" class="text-danger"></span>
+            </div>
+
+            <div class="form-group d-flex mt-4 justify-content-start">
+                <input type="submit" value="Crear" class="btn btn-primary" />
+                <a asp-action="Index" style="margin-left: 1rem;" class="btn btn-secondary">Atrás</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

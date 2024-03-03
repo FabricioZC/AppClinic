@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UCR\\Desktop\\AppCitasMedicas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77881F19-543F-4AFE-8D9C-809AA019062E}|AppCitasMedicas\\AppCitasMedicas.csproj|c:\\users\\ucr\\desktop\\appcitasmedicas\\appcitasmedicas\\models\\citasapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77881F19-543F-4AFE-8D9C-809AA019062E}|AppCitasMedicas\\AppCitasMedicas.csproj|solutionrelative:appcitasmedicas\\models\\citasapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77881F19-543F-4AFE-8D9C-809AA019062E}|AppCitasMedicas\\AppCitasMedicas.csproj|c:\\users\\ucr\\desktop\\appcitasmedicas\\appcitasmedicas\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77881F19-543F-4AFE-8D9C-809AA019062E}|AppCitasMedicas\\AppCitasMedicas.csproj|solutionrelative:appcitasmedicas\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77881F19-543F-4AFE-8D9C-809AA019062E}|AppCitasMedicas\\AppCitasMedicas.csproj|c:\\users\\ucr\\desktop\\appcitasmedicas\\appcitasmedicas\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77881F19-543F-4AFE-8D9C-809AA019062E}|AppCitasMedicas\\AppCitasMedicas.csproj|solutionrelative:appcitasmedicas\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77881F19-543F-4AFE-8D9C-809AA019062E}|AppCitasMedicas\\AppCitasMedicas.csproj|c:\\users\\ucr\\desktop\\appcitasmedicas\\appcitasmedicas\\models\\citas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77881F19-543F-4AFE-8D9C-809AA019062E}|AppCitasMedicas\\AppCitasMedicas.csproj|solutionrelative:appcitasmedicas\\models\\citas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77881F19-543F-4AFE-8D9C-809AA019062E}|AppCitasMedicas\\AppCitasMedicas.csproj|c:\\users\\ucr\\desktop\\appcitasmedicas\\appcitasmedicas\\models\\autorizacionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77881F19-543F-4AFE-8D9C-809AA019062E}|AppCitasMedicas\\AppCitasMedicas.csproj|solutionrelative:appcitasmedicas\\models\\autorizacionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77881F19-543F-4AFE-8D9C-809AA019062E}|AppCitasMedicas\\AppCitasMedicas.csproj|c:\\users\\ucr\\desktop\\appcitasmedicas\\appcitasmedicas\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77881F19-543F-4AFE-8D9C-809AA019062E}|AppCitasMedicas\\AppCitasMedicas.csproj|solutionrelative:appcitasmedicas\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77881F19-543F-4AFE-8D9C-809AA019062E}|AppCitasMedicas\\AppCitasMedicas.csproj|c:\\users\\ucr\\desktop\\appcitasmedicas\\appcitasmedicas\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77881F19-543F-4AFE-8D9C-809AA019062E}|AppCitasMedicas\\AppCitasMedicas.csproj|solutionrelative:appcitasmedicas\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 325,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\UCR\\Desktop\\AppCitasMedicas\\AppCitasMedicas\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "AppCitasMedicas\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\UCR\\Desktop\\AppCitasMedicas\\AppCitasMedicas\\Models\\Usuario.cs",
+              "RelativeToolTip": "AppCitasMedicas\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T17:30:30.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\UCR\\Desktop\\AppCitasMedicas\\AppCitasMedicas\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AppCitasMedicas\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\UCR\\Desktop\\AppCitasMedicas\\AppCitasMedicas\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AppCitasMedicas\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T17:30:31.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CitasAPI.cs",
+              "DocumentMoniker": "C:\\Users\\UCR\\Desktop\\AppCitasMedicas\\AppCitasMedicas\\Models\\CitasAPI.cs",
+              "RelativeDocumentMoniker": "AppCitasMedicas\\Models\\CitasAPI.cs",
+              "ToolTip": "C:\\Users\\UCR\\Desktop\\AppCitasMedicas\\AppCitasMedicas\\Models\\CitasAPI.cs",
+              "RelativeToolTip": "AppCitasMedicas\\Models\\CitasAPI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T17:30:27.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Citas.cs",
+              "DocumentMoniker": "C:\\Users\\UCR\\Desktop\\AppCitasMedicas\\AppCitasMedicas\\Models\\Citas.cs",
+              "RelativeDocumentMoniker": "AppCitasMedicas\\Models\\Citas.cs",
+              "ToolTip": "C:\\Users\\UCR\\Desktop\\AppCitasMedicas\\AppCitasMedicas\\Models\\Citas.cs",
+              "RelativeToolTip": "AppCitasMedicas\\Models\\Citas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T17:30:24.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutorizacionResponse.cs",
+              "DocumentMoniker": "C:\\Users\\UCR\\Desktop\\AppCitasMedicas\\AppCitasMedicas\\Models\\AutorizacionResponse.cs",
+              "RelativeDocumentMoniker": "AppCitasMedicas\\Models\\AutorizacionResponse.cs",
+              "ToolTip": "C:\\Users\\UCR\\Desktop\\AppCitasMedicas\\AppCitasMedicas\\Models\\AutorizacionResponse.cs",
+              "RelativeToolTip": "AppCitasMedicas\\Models\\AutorizacionResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T17:30:22.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\UCR\\Desktop\\AppCitasMedicas\\AppCitasMedicas\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "AppCitasMedicas\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\UCR\\Desktop\\AppCitasMedicas\\AppCitasMedicas\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "AppCitasMedicas\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAcwHIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T17:22:07.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CitasController.cs",
+              "DocumentMoniker": "C:\\Users\\UCR\\Desktop\\AppCitasMedicas\\AppCitasMedicas\\Controllers\\CitasController.cs",
+              "RelativeDocumentMoniker": "AppCitasMedicas\\Controllers\\CitasController.cs",
+              "ToolTip": "C:\\Users\\UCR\\Desktop\\AppCitasMedicas\\AppCitasMedicas\\Controllers\\CitasController.cs",
+              "RelativeToolTip": "AppCitasMedicas\\Controllers\\CitasController.cs",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAkwLwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T17:19:19.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

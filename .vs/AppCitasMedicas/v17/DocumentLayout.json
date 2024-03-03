@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AMD\\Desktop\\AppCitasMedicas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77881F19-543F-4AFE-8D9C-809AA019062E}|AppCitasMedicas\\AppCitasMedicas.csproj|c:\\users\\amd\\desktop\\appcitasmedicas\\appcitasmedicas\\views\\citas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77881F19-543F-4AFE-8D9C-809AA019062E}|AppCitasMedicas\\AppCitasMedicas.csproj|solutionrelative:appcitasmedicas\\views\\citas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77881F19-543F-4AFE-8D9C-809AA019062E}|AppCitasMedicas\\AppCitasMedicas.csproj|c:\\users\\amd\\desktop\\appcitasmedicas\\appcitasmedicas\\views\\citas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77881F19-543F-4AFE-8D9C-809AA019062E}|AppCitasMedicas\\AppCitasMedicas.csproj|solutionrelative:appcitasmedicas\\views\\citas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77881F19-543F-4AFE-8D9C-809AA019062E}|AppCitasMedicas\\AppCitasMedicas.csproj|c:\\users\\amd\\desktop\\appcitasmedicas\\appcitasmedicas\\views\\citas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77881F19-543F-4AFE-8D9C-809AA019062E}|AppCitasMedicas\\AppCitasMedicas.csproj|solutionrelative:appcitasmedicas\\views\\citas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77881F19-543F-4AFE-8D9C-809AA019062E}|AppCitasMedicas\\AppCitasMedicas.csproj|c:\\users\\amd\\desktop\\appcitasmedicas\\appcitasmedicas\\views\\citas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77881F19-543F-4AFE-8D9C-809AA019062E}|AppCitasMedicas\\AppCitasMedicas.csproj|solutionrelative:appcitasmedicas\\views\\citas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77881F19-543F-4AFE-8D9C-809AA019062E}|AppCitasMedicas\\AppCitasMedicas.csproj|c:\\users\\amd\\desktop\\appcitasmedicas\\appcitasmedicas\\views\\citas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77881F19-543F-4AFE-8D9C-809AA019062E}|AppCitasMedicas\\AppCitasMedicas.csproj|solutionrelative:appcitasmedicas\\views\\citas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 325,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\AMD\\Desktop\\AppCitasMedicas\\AppCitasMedicas\\Views\\Citas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AppCitasMedicas\\Views\\Citas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\AMD\\Desktop\\AppCitasMedicas\\AppCitasMedicas\\Views\\Citas\\Delete.cshtml",
+              "RelativeToolTip": "AppCitasMedicas\\Views\\Citas\\Delete.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T04:22:38.969Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\AMD\\Desktop\\AppCitasMedicas\\AppCitasMedicas\\Views\\Citas\\Details.cshtml",
+              "RelativeDocumentMoniker": "AppCitasMedicas\\Views\\Citas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\AMD\\Desktop\\AppCitasMedicas\\AppCitasMedicas\\Views\\Citas\\Details.cshtml",
+              "RelativeToolTip": "AppCitasMedicas\\Views\\Citas\\Details.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADgAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T04:28:34.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\AMD\\Desktop\\AppCitasMedicas\\AppCitasMedicas\\Views\\Citas\\Create.cshtml",
+              "RelativeDocumentMoniker": "AppCitasMedicas\\Views\\Citas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\AMD\\Desktop\\AppCitasMedicas\\AppCitasMedicas\\Views\\Citas\\Create.cshtml",
+              "RelativeToolTip": "AppCitasMedicas\\Views\\Citas\\Create.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T04:19:54.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\AMD\\Desktop\\AppCitasMedicas\\AppCitasMedicas\\Views\\Citas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AppCitasMedicas\\Views\\Citas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\AMD\\Desktop\\AppCitasMedicas\\AppCitasMedicas\\Views\\Citas\\Edit.cshtml",
+              "RelativeToolTip": "AppCitasMedicas\\Views\\Citas\\Edit.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T04:19:36.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AMD\\Desktop\\AppCitasMedicas\\AppCitasMedicas\\Views\\Citas\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppCitasMedicas\\Views\\Citas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AMD\\Desktop\\AppCitasMedicas\\AppCitasMedicas\\Views\\Citas\\Index.cshtml",
+              "RelativeToolTip": "AppCitasMedicas\\Views\\Citas\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAADwvzcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T04:00:55.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

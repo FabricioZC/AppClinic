@@ -1,0 +1,62 @@
+﻿@model IEnumerable<AppCitasMedicas.Models.Citas>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="mt-5 mb-4 text-white">Bienvenido</h1>
+
+<p class="mb-3">
+    <a asp-action="Create" class="btn btn-success text-white">Crear nueva cita</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th class="text-white">
+                @Html.DisplayNameFor(model => model.ID)
+            </th>
+            <th class="text-white">
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th class="text-white">
+                @Html.DisplayNameFor(model => model.FechaHora)
+            </th>
+            <th class="text-white">
+                @Html.DisplayNameFor(model => model.IDProcedimiento)
+            </th>
+            <th class="text-white">
+                @Html.DisplayNameFor(model => model.MontoTotal)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td class="text-white">
+                    @Html.DisplayFor(modelItem => item.ID)
+                </td>
+                <td class="text-white">
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td class="text-white">
+                    @Html.DisplayFor(modelItem => item.FechaHora)
+                </td>
+                <td class="text-white">
+                    @Html.DisplayFor(modelItem => item.IDProcedimiento)
+                </td>
+                <td class="text-white">
+                    @Html.DisplayFor(modelItem => item.MontoTotal)
+                </td>
+                <td class="text-white">
+                    @Html.ActionLink("Editar", "Edit", new { id = item.ID }, new { @class = "btn btn-warning text-white" }) |
+                    @Html.ActionLink("Detalles", "Details", new { id = item.ID }, new { @class = "btn btn-info text-white" }) |
+                    @Html.ActionLink("Eliminar", "Delete", new { id = item.ID }, new { @class = "btn btn-danger text-white" })
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
