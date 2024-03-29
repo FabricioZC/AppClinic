@@ -8,6 +8,6 @@ This application offers an authentication and authorization system through token
 I used HTML, CSS, C#
 
 ## Setup
-Clone the project: `git clone https://github.com/FabricioZC/AppClinic.git`\
-Open Visual Studio 2022 and select "Open project or solution." Navigate to the directory where you cloned the project and select the solution file (sln) for the project.\
-Build the solution by clicking "Build" in the menu bar and then selecting "Build Solution." Make sure there are no compilation errors.
+- Clone the project: `git clone https://github.com/FabricioZC/AppClinic.git`\
+- Open Visual Studio 2022 and select "Open project or solution." Navigate to the directory where you cloned the project and select the solution file (sln) for the project.\
+- Build the solution by clicking "Build" in the menu bar and then selecting "Build Solution." Make sure there are no compilation errors.
