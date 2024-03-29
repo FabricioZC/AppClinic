@@ -950,3 +950,4 @@ C:\Users\AMD\Desktop\AppCitasMedicas\AppCitasMedicas\obj\Debug\net8.0\refint\App
 C:\Users\AMD\Desktop\AppCitasMedicas\AppCitasMedicas\obj\Debug\net8.0\AppCitasMedicas.pdb
 C:\Users\AMD\Desktop\AppCitasMedicas\AppCitasMedicas\obj\Debug\net8.0\AppCitasMedicas.genruntimeconfig.cache
 C:\Users\AMD\Desktop\AppCitasMedicas\AppCitasMedicas\obj\Debug\net8.0\ref\AppCitasMedicas.dll
+C:\Users\AMD\Desktop\AppCitasMedicas\AppCitasMedicas\obj\Debug\net8.0\AppCitasMedicas.sourcelink.json
